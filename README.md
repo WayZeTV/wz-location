@@ -16,7 +16,7 @@ Le fichier client est crypté pour éviter le dump et son exploitation. Le nom d
 start wz-location
 ```
 - Faites les modifications que vous souhaitez dans le fichier `config.lua`
-- 
+
 Si vous avez besoin d'aide pour l'installation : https://discord.gg/eX9GXWN
 
 # Author 
