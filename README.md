@@ -12,7 +12,7 @@ Le fichier client est crypté pour éviter le dump et son exploitation. Le nom d
 # Ultimate Version
 
 Une version ULTIMATE de ce script est en cours de développement. Elle sera réservé aux VIPS de [SW Développement](https://discord.gg/swdev) 
-Les options supplémentaires qu'il y aura : 
+. Les options supplémentaires qu'il y aura : 
 - Location motos,
 - Location jetskis,
 - Location vélos,
