@@ -16,8 +16,8 @@ Les options supplémentaires qu'il y aura :
 - Location motos,
 - Location jetskis,
 - Location vélos,
-- + d'options configurables,
-- + d'options avancées.
+- plus d'options configurables,
+- plus d'options avancées.
 
 Une preview sera disponible d'ici une semaine.
 
