@@ -8,6 +8,19 @@ Le fichier client est crypté pour éviter le dump et son exploitation. Le nom d
 
 ![screenshot](https://media.discordapp.net/attachments/729007411809091675/929838823033167923/unknown.png?width=758&height=683)
  - [Ressource Preview](https://streamable.com/jityxj) 
+
+# Ultimate Version
+
+Une version ULTIMATE de ce script est en cours de développement. Elle sera réservé aux VIPS de [SW Développement](https://discord.gg/swdev) 
+Les options supplémentaires qu'il y aura : 
+- Location motos,
+- Location jetskis,
+- Location vélos,
+- + d'options configurables,
+- + d'options avancées.
+
+Une preview sera disponible d'ici une semaine.
+
 # Installation
 - Importez `wz-location` dans votre serveur,
 - Ajouter cela à votre `server.cfg`:
