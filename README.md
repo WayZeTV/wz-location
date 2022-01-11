@@ -42,7 +42,7 @@ Si vous avez besoin d'aide pour l'installation : https://discord.gg/eX9GXWN
 ### License
 wz-location - RageUI Script
 
-Copyright (C) 2021 WayZe
+Copyright (C) 2022 WayZe
 
 This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
 
