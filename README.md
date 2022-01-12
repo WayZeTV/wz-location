@@ -11,7 +11,7 @@ Le fichier client est crypté pour éviter le dump et son exploitation. Le nom d
 
 # Ultimate Version
 
-Une version ULTIMATE de ce script est en cours de développement. Elle sera réservé aux VIPS de [SW Développement](https://discord.gg/swdev) 
+Une version ULTIMATE de ce script est en cours de développement. Elle sera réservé aux VIPS de SW Développement
 . Les options supplémentaires qu'il y aura : 
 - Location motos,
 - Location jetskis,
@@ -30,10 +30,9 @@ start wz-location
 ```
 - Faites les modifications que vous souhaitez dans le fichier `config.lua`
 
-Si vous avez besoin d'aide pour l'installation : https://discord.gg/eX9GXWN
+Si vous avez besoin d'aide pour l'installation : https://youtube.com/WayZe
 
 # Author 
-<a href="https://discord.gg/Wc4ujJNcpQ"><img src="https://discord.com/api/guilds/723245101282885742/widget.png?style=banner1"></a>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/WayZeTV?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/WayZeTV)
 
